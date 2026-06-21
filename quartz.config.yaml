@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mayaming0.github.io
+  baseUrl: mayaming0.github.io/fondend-site
   ignorePatterns:
     - private
     - templates
