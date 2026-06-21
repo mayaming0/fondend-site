@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://mysite.gitee.io</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://mysite.gitee.io/tags/</link>
+    <guid>https://mysite.gitee.io/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 21 Jun 2026 05:40:16 GMT</pubDate>
+  </item><item>
+    <title>首页</title>
+    <link>https://mysite.gitee.io/</link>
+    <guid>https://mysite.gitee.io/</guid>
+    <description><![CDATA[ 📚 学习笔记 欢迎来到我的数字花园 🌱，这里整理了我在前端开发中的学习笔记。 📖 笔记列表 笔记描述⚛️ React 知识整理React 18 + Redux Toolkit + React Router v6 项目学习路径总结🔗 TanStack QueryTanStack Query 数据同步库学习笔记📦 Node.js 笔记fs 模块等 Node.js 核心模块学习🏷️ TypeScript 学习TypeScript 数据类型与进阶知识🔧 Git 学习Git 工作区、暂存区、版本库与常用命令. ]]></description>
+    <pubDate>Sun, 21 Jun 2026 05:36:38 GMT</pubDate>
+  </item><item>
+    <title>GitLearn</title>
+    <link>https://mysite.gitee.io/gitlearn</link>
+    <guid>https://mysite.gitee.io/gitlearn</guid>
+    <description><![CDATA[ 工作区 - 暂存区 - 版本库 - 远程仓库 命令行 初始化仓库 git init 查看当前仓库状态 git status 添加单个文件 git add hello.txt 添加当前目录下所有文件（常用）git add . ]]></description>
+    <pubDate>Sun, 21 Jun 2026 05:14:14 GMT</pubDate>
+  </item><item>
+    <title>ReactQuery</title>
+    <link>https://mysite.gitee.io/reactquery</link>
+    <guid>https://mysite.gitee.io/reactquery</guid>
+    <description><![CDATA[ TanStack Query 学习笔记 概述 TanStack Query 是一个强大的数据同步库，用于 React 应用的状态管理和数据获取。 注：本文档基于 TanStack Query 最新版本整理，具体使用请参考 tanstack.com/query/latest &quot;@tanstack/react-query&quot;: &quot;^5.91.0&quot;, &quot;@tanstack/react-query-devtools&quot;: &quot;^5.91.3&quot;, 安装 基础安装 npm i @tanstack/react-query ESLint... ]]></description>
+    <pubDate>Sun, 21 Jun 2026 05:14:14 GMT</pubDate>
+  </item><item>
+    <title>nodsJS</title>
+    <link>https://mysite.gitee.io/nodsjs</link>
+    <guid>https://mysite.gitee.io/nodsjs</guid>
+    <description><![CDATA[ fs 模块 引入 const fs = require(&quot;fs&quot;); // fs 模块提供了 promises 版本的 API const fs = require(&quot;fs&quot;).promises; fs.readFile fs.readFile 以异步的方式读取整个文件内容，在读取完成后通过回调函数返回结果。这意味着在文件读取过程中，Node.js 可以继续执行其他代码，不会阻塞事件循环。 fs.readFile(path[, options], callback) 参数说明 path：表示要读取的文件的路径，可以是字符串、Buffer 或 URL 对象... ]]></description>
+    <pubDate>Sun, 21 Jun 2026 05:14:14 GMT</pubDate>
+  </item><item>
+    <title>react</title>
+    <link>https://mysite.gitee.io/react</link>
+    <guid>https://mysite.gitee.io/react</guid>
+    <description><![CDATA[ ⚛️ React 知识整理 项目学习路径总结 — 基于 React 18 + Redux Toolkit + React Router v6 📦 一、项目基建 工具用途create-react-app脚手架antd (v5)UI 组件库（Layout、Menu 等）react-router-dom (v6)路由管理@reduxjs/toolkit + react-redux状态管理use-immer简化不可变数据操作uuid唯一 ID 生成 🧠 二、核心 Hooks 1. ]]></description>
+    <pubDate>Sun, 21 Jun 2026 05:14:14 GMT</pubDate>
+  </item><item>
+    <title>tsLearning</title>
+    <link>https://mysite.gitee.io/tslearning</link>
+    <guid>https://mysite.gitee.io/tslearning</guid>
+    <description><![CDATA[ ts数据类型 原始类型：number/string/boolean/null/undefined/symbol 对象类型：object（包括，数组、对象、函数等对象） ts 新增类型：联合类型 / 自定义类型(类型别名) / 接口 / 元组 / 字面量类型 / 枚举 / void / any / 等等 原始类型 // 数值类型 let age: number = 18 // 字符串类型 let myName: string = &#039;小花&#039; // 布尔类型 let isLoading: boolean = false // undefined let un: undefined... ]]></description>
+    <pubDate>Sun, 21 Jun 2026 05:14:14 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
