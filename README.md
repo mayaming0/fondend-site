@@ -8,10 +8,15 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+# 命令
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+```shell
+# 安装依赖
+npm i
+
+# 启动开发服务器
+npx quartz build --serve
+
+# 构建项目
+npx quartz build
+```
