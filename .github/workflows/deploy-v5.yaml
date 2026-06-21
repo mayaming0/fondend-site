@@ -3,7 +3,7 @@ name: Deploy v5 Preview
 on:
   push:
     branches:
-      - v5
+      - master
   workflow_dispatch:
 
 permissions:
